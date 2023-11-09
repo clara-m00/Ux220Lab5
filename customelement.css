@@ -11,5 +11,10 @@ h1 {
 }
 
 x-clara {
-    color: whitesmoke
+    color: whitesmoke;
+    font-family: 'Josefin Sans', sans-serif; 
+}
+
+footer {
+    text-align: center;
 }

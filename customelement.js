@@ -32,7 +32,7 @@ customElements.define("x-purpletext", PurpleElement);
 
 class BackgroundcolorElement extends HTMLElement {
     connectedCallback() {
-        this.innerHTML = `<div style="background-color:lightblue">${this.innerHTML}</div>`;
+        this.innerHTML = `<div style="background-color:green">${this.innerHTML}</div>`;
     }
 }
 
