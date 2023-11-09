@@ -5,3 +5,11 @@ x-center{
 x-center:defined{
     visibility: visible;
 }
+
+h1 {
+    font-family: 'Merriweather', serif;
+}
+
+x-clara {
+    color: whitesmoke
+}
